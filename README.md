@@ -1,8 +1,7 @@
 # 💫About Me :
 I am a graduate of Computer Engineering majoring in Software.
 I have mastery of Xcode, Figma, Android Studio, git and mac os software.
-I am a developer of Android and iOS applications.
-I do this with React Native.
+I am a developer of Android and iOS by React native and I developer of Web App with Reactjs and Nextjs.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@farzaneh.pum) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@farzaneh-nalchi-341349172) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@FariNa9494) 
